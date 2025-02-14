@@ -124,6 +124,7 @@ dashboard.trading_config.update({
 ## Development
 
 ### Project Structure
+
 ```
 
 market_dashboard/
@@ -132,12 +133,6 @@ market_dashboard/
 ├── dashboard.py            # Main dashboard implementation
 ├── yahoo_currency_wrapper.py  # Market data provider
 └── forex_data_processor.py   # Data analysis tools
-```
-
-### Running Tests
-
-```bash
-pytest tests/
 ```
 
 ## License
